@@ -1,0 +1,8 @@
+const fs = require('fs')
+
+var mensagens = ["Já estou terminando... aguarde.", "Enviando... e você já enviou um pix para o fênix hj?", "Tô acabando... aguarda ai, enquanto isso faz o pix pro fênix "]
+
+
+module.exports = {
+mensagens
+}
